@@ -1,0 +1,500 @@
+weight,height,age,gross motor,fine motor,communication,problem solving,emotional development,attention and concentration,overactivity and impulsivity,passivity/ inactivity,planning/ organising,perception of directions,perception of visual forms and figures,memory,spoken language,reading/writing,social skills,emotional problems,growth
+16,113,1,poor,excellent,good,fair,fair,excellent,excellent,good,fair,good,good,good,good,fair,poor,no,normal
+7,54,3,excellent,good,fair,poor,good,fair,fair,poor,good,poor,poor,poor,poor,fair,fair,yes,normal
+17,106,1,poor,good,good,poor,poor,excellent,excellent,fair,poor,excellent,excellent,excellent,poor,excellent,good,yes,normal
+11,114,5,good,good,poor,excellent,poor,excellent,fair,fair,fair,good,poor,good,good,poor,excellent,no,over growth
+20,54,5,fair,excellent,poor,poor,excellent,fair,poor,fair,fair,poor,fair,excellent,fair,excellent,poor,no,normal
+12,60,5,fair,fair,excellent,excellent,poor,good,fair,fair,fair,good,poor,poor,good,excellent,poor,yes,under growth
+9,93,4,good,excellent,fair,poor,fair,excellent,excellent,excellent,fair,poor,good,poor,poor,excellent,poor,yes,under growth
+12,118,2,good,poor,poor,poor,good,excellent,poor,poor,excellent,fair,poor,poor,poor,poor,good,no,over growth
+10,81,5,poor,excellent,poor,poor,excellent,good,poor,good,excellent,good,good,good,fair,excellent,good,no,over growth
+13,89,3,fair,poor,excellent,fair,fair,good,fair,fair,poor,poor,excellent,excellent,good,poor,fair,no,under growth
+14,119,0,poor,poor,good,good,fair,poor,fair,excellent,fair,excellent,good,fair,fair,excellent,fair,no,over growth
+16,118,4,poor,fair,fair,poor,poor,good,fair,excellent,good,excellent,good,good,poor,excellent,excellent,no,over growth
+8,53,2,fair,fair,excellent,excellent,poor,fair,poor,fair,good,poor,fair,excellent,good,poor,excellent,yes,over growth
+19,78,3,fair,good,fair,poor,good,good,poor,excellent,fair,fair,fair,excellent,fair,fair,good,yes,normal
+8,84,1,excellent,good,excellent,fair,poor,good,fair,fair,poor,poor,poor,good,excellent,good,fair,no,over growth
+5,74,2,poor,excellent,excellent,poor,excellent,poor,good,poor,poor,fair,fair,excellent,excellent,excellent,good,yes,under growth
+8,71,5,fair,excellent,fair,poor,excellent,good,good,excellent,poor,poor,good,fair,excellent,poor,excellent,no,under growth
+13,98,3,good,excellent,poor,poor,good,excellent,poor,excellent,fair,excellent,good,good,fair,fair,poor,no,normal
+13,67,1,good,fair,poor,poor,excellent,fair,good,good,fair,excellent,poor,good,fair,fair,excellent,yes,under growth
+15,61,2,excellent,poor,poor,good,excellent,poor,excellent,poor,excellent,good,fair,good,good,fair,poor,no,under growth
+6,98,0,fair,excellent,excellent,good,good,excellent,excellent,poor,poor,good,good,fair,good,excellent,excellent,yes,normal
+20,65,3,poor,poor,excellent,poor,good,poor,poor,good,fair,poor,excellent,good,excellent,excellent,poor,no,normal
+11,86,2,good,good,fair,poor,fair,poor,good,fair,excellent,poor,fair,good,fair,poor,good,yes,under growth
+9,100,0,poor,poor,poor,good,poor,good,fair,excellent,excellent,poor,good,excellent,good,poor,good,no,under growth
+13,85,2,poor,excellent,poor,fair,fair,good,excellent,poor,excellent,poor,fair,fair,excellent,poor,good,no,normal
+10,108,5,poor,poor,fair,excellent,poor,poor,excellent,excellent,good,poor,excellent,excellent,excellent,excellent,excellent,yes,normal
+20,103,5,poor,good,good,good,excellent,poor,good,poor,poor,fair,excellent,excellent,poor,fair,excellent,no,over growth
+13,115,5,good,good,fair,good,excellent,good,good,good,excellent,excellent,good,poor,poor,excellent,fair,yes,normal
+18,90,1,good,excellent,poor,good,poor,excellent,excellent,fair,excellent,excellent,excellent,good,poor,poor,poor,no,under growth
+19,113,3,good,excellent,good,fair,excellent,good,poor,excellent,fair,excellent,excellent,excellent,fair,good,excellent,no,normal
+7,102,2,fair,good,poor,fair,good,good,excellent,fair,excellent,excellent,fair,good,good,excellent,excellent,yes,under growth
+6,63,3,poor,good,fair,fair,excellent,fair,good,good,excellent,excellent,fair,poor,poor,good,good,no,normal
+13,75,2,poor,poor,fair,fair,excellent,poor,good,excellent,poor,poor,good,fair,fair,fair,good,no,under growth
+13,68,1,poor,poor,good,excellent,fair,excellent,poor,excellent,excellent,fair,poor,excellent,poor,poor,excellent,no,under growth
+11,77,4,excellent,fair,poor,good,poor,good,good,poor,fair,fair,fair,poor,good,poor,excellent,no,normal
+7,67,4,excellent,good,fair,fair,good,excellent,poor,fair,poor,excellent,good,poor,excellent,poor,fair,no,over growth
+6,94,2,excellent,excellent,poor,good,fair,excellent,fair,poor,good,fair,poor,fair,excellent,fair,good,no,over growth
+15,76,2,good,excellent,good,poor,poor,fair,excellent,excellent,poor,good,poor,fair,good,fair,good,yes,under growth
+14,112,1,excellent,excellent,good,poor,excellent,poor,good,excellent,excellent,good,fair,good,good,excellent,fair,no,normal
+16,80,5,fair,excellent,good,good,poor,excellent,fair,poor,excellent,poor,poor,good,fair,fair,good,yes,under growth
+20,53,0,poor,excellent,fair,excellent,good,poor,good,good,good,poor,fair,fair,excellent,poor,good,yes,under growth
+6,52,2,excellent,good,poor,fair,fair,fair,good,excellent,fair,fair,good,fair,fair,fair,good,no,normal
+13,94,0,poor,poor,poor,poor,poor,poor,poor,fair,excellent,excellent,poor,fair,excellent,fair,excellent,yes,over growth
+17,115,4,poor,poor,poor,fair,excellent,poor,good,fair,excellent,good,fair,good,poor,excellent,good,yes,over growth
+11,120,1,poor,good,excellent,good,poor,excellent,excellent,poor,good,fair,good,excellent,excellent,fair,excellent,yes,under growth
+12,120,2,fair,good,poor,good,fair,fair,poor,excellent,good,excellent,poor,poor,good,excellent,poor,yes,under growth
+18,99,1,good,fair,poor,excellent,good,poor,good,poor,excellent,good,excellent,good,good,excellent,poor,no,normal
+7,78,2,excellent,poor,excellent,fair,good,fair,fair,good,poor,good,poor,fair,excellent,fair,excellent,no,under growth
+4,61,0,fair,fair,good,excellent,good,fair,fair,good,fair,fair,fair,excellent,fair,fair,fair,yes,normal
+9,103,5,good,good,good,good,fair,excellent,poor,good,fair,fair,good,fair,poor,poor,poor,yes,under growth
+11,98,1,excellent,fair,poor,poor,fair,fair,excellent,excellent,fair,excellent,fair,fair,fair,poor,excellent,no,under growth
+17,89,3,excellent,poor,good,good,poor,good,excellent,poor,poor,poor,excellent,fair,excellent,excellent,good,no,under growth
+7,51,3,fair,excellent,fair,excellent,good,excellent,good,poor,good,poor,excellent,poor,fair,poor,excellent,no,normal
+3,76,0,poor,poor,good,excellent,fair,good,poor,good,poor,fair,poor,excellent,good,fair,poor,no,over growth
+5,120,5,poor,poor,good,good,good,poor,fair,good,fair,fair,excellent,fair,good,excellent,excellent,yes,under growth
+6,75,0,fair,excellent,excellent,excellent,poor,poor,excellent,poor,excellent,poor,good,excellent,good,excellent,fair,yes,over growth
+7,58,4,good,excellent,excellent,good,good,good,good,excellent,good,fair,fair,good,good,fair,poor,no,under growth
+13,120,2,excellent,good,fair,fair,poor,poor,fair,fair,good,excellent,excellent,poor,excellent,poor,poor,no,normal
+20,102,1,poor,good,excellent,poor,fair,excellent,fair,excellent,good,poor,fair,poor,poor,poor,good,no,under growth
+14,101,3,good,good,good,good,poor,fair,good,good,excellent,good,fair,poor,fair,good,good,yes,over growth
+4,89,3,good,poor,poor,good,good,good,good,fair,poor,poor,fair,fair,fair,excellent,excellent,no,over growth
+10,75,5,fair,poor,poor,good,poor,excellent,poor,good,excellent,poor,good,excellent,excellent,good,fair,no,normal
+17,107,2,poor,good,excellent,poor,excellent,good,poor,fair,poor,poor,excellent,good,excellent,poor,excellent,no,over growth
+20,116,4,good,excellent,excellent,poor,poor,good,excellent,excellent,fair,excellent,good,fair,good,fair,poor,no,normal
+18,117,5,good,good,poor,fair,good,excellent,good,good,good,poor,excellent,fair,good,excellent,excellent,yes,normal
+19,100,3,excellent,good,fair,good,good,poor,excellent,excellent,excellent,fair,poor,fair,fair,excellent,good,yes,under growth
+10,86,4,fair,excellent,excellent,fair,poor,good,fair,fair,poor,fair,excellent,excellent,fair,fair,poor,no,under growth
+15,111,1,good,excellent,excellent,excellent,fair,fair,poor,fair,excellent,fair,good,fair,excellent,fair,poor,no,under growth
+15,102,3,poor,poor,excellent,fair,good,good,fair,excellent,fair,excellent,poor,good,excellent,fair,fair,no,over growth
+5,71,3,good,fair,fair,good,fair,excellent,fair,fair,fair,fair,poor,good,fair,fair,good,yes,normal
+11,94,4,good,excellent,good,fair,fair,good,poor,excellent,good,poor,good,fair,good,fair,good,yes,over growth
+18,75,3,fair,poor,good,good,excellent,fair,good,excellent,poor,good,good,good,poor,excellent,poor,yes,normal
+7,79,5,fair,good,fair,good,excellent,excellent,good,good,fair,good,good,poor,excellent,excellent,fair,yes,under growth
+9,72,5,fair,poor,good,poor,fair,good,poor,fair,excellent,excellent,poor,good,fair,excellent,poor,no,over growth
+8,96,5,excellent,excellent,good,excellent,excellent,excellent,excellent,poor,excellent,poor,poor,excellent,good,excellent,fair,yes,normal
+18,109,3,fair,excellent,excellent,fair,fair,excellent,fair,poor,poor,poor,excellent,poor,fair,fair,poor,no,over growth
+19,83,1,fair,good,fair,good,good,good,fair,fair,excellent,good,fair,fair,poor,fair,poor,no,normal
+8,51,4,poor,excellent,excellent,fair,fair,good,poor,fair,fair,excellent,fair,poor,fair,poor,poor,yes,over growth
+14,78,4,poor,poor,good,fair,fair,excellent,poor,good,fair,poor,good,fair,fair,good,good,yes,normal
+5,82,1,fair,fair,fair,fair,fair,good,poor,poor,fair,poor,excellent,fair,fair,good,excellent,yes,normal
+11,112,0,excellent,good,good,excellent,good,poor,fair,good,good,fair,fair,excellent,fair,good,excellent,yes,under growth
+4,108,2,good,excellent,good,poor,poor,poor,poor,good,poor,poor,excellent,fair,poor,fair,excellent,no,normal
+12,89,5,excellent,fair,poor,fair,excellent,good,fair,excellent,good,excellent,fair,poor,poor,excellent,fair,no,normal
+15,64,5,poor,fair,excellent,good,excellent,fair,good,excellent,poor,excellent,excellent,poor,good,good,excellent,no,under growth
+17,64,0,poor,excellent,fair,poor,poor,fair,fair,fair,fair,poor,poor,good,good,good,good,no,over growth
+15,98,3,fair,good,fair,excellent,poor,good,fair,excellent,fair,fair,fair,good,poor,excellent,fair,yes,normal
+6,82,4,poor,excellent,good,excellent,fair,excellent,fair,excellent,poor,excellent,excellent,fair,fair,excellent,good,no,normal
+19,101,2,poor,poor,good,poor,fair,excellent,poor,fair,poor,fair,poor,good,fair,poor,excellent,yes,normal
+11,94,1,good,fair,good,fair,fair,good,good,good,excellent,poor,excellent,good,good,fair,poor,no,over growth
+8,76,2,poor,excellent,fair,good,poor,good,poor,excellent,good,good,fair,excellent,poor,good,excellent,yes,over growth
+7,108,1,excellent,excellent,poor,fair,fair,excellent,fair,good,good,fair,poor,excellent,fair,poor,good,yes,normal
+19,58,1,excellent,poor,excellent,poor,fair,fair,good,poor,good,poor,fair,fair,poor,fair,good,yes,normal
+8,114,3,fair,good,poor,poor,poor,poor,poor,good,fair,fair,good,fair,excellent,fair,fair,no,over growth
+8,66,0,good,fair,poor,poor,good,excellent,good,good,excellent,fair,fair,good,excellent,fair,good,no,over growth
+14,59,2,excellent,excellent,fair,poor,good,excellent,fair,fair,poor,good,excellent,fair,excellent,excellent,poor,no,over growth
+14,97,2,good,fair,fair,good,good,excellent,excellent,excellent,fair,poor,good,good,good,good,excellent,yes,normal
+10,87,0,excellent,good,fair,good,poor,poor,poor,poor,excellent,poor,poor,fair,poor,fair,fair,yes,normal
+4,83,1,good,fair,fair,poor,good,fair,fair,fair,good,excellent,excellent,fair,poor,excellent,excellent,yes,normal
+15,87,4,poor,excellent,good,fair,poor,fair,good,good,fair,fair,poor,good,fair,poor,excellent,no,over growth
+8,53,5,poor,fair,fair,excellent,poor,good,poor,fair,excellent,good,poor,poor,excellent,good,fair,no,normal
+18,51,5,excellent,good,good,poor,excellent,good,poor,good,good,poor,good,fair,excellent,good,excellent,no,normal
+6,87,0,fair,excellent,fair,good,excellent,excellent,good,excellent,poor,poor,excellent,fair,poor,excellent,good,no,over growth
+13,91,5,good,poor,good,excellent,excellent,fair,excellent,good,good,good,good,excellent,fair,excellent,good,yes,normal
+14,118,5,poor,good,poor,good,poor,excellent,fair,excellent,poor,excellent,poor,fair,good,excellent,poor,yes,normal
+11,95,1,good,excellent,fair,poor,poor,fair,poor,excellent,poor,poor,good,good,fair,excellent,fair,yes,normal
+6,84,0,fair,poor,poor,good,poor,poor,poor,poor,poor,poor,fair,good,fair,fair,fair,yes,under growth
+5,52,4,excellent,good,good,poor,good,fair,good,poor,excellent,good,good,excellent,fair,excellent,fair,yes,over growth
+17,67,1,fair,excellent,excellent,poor,good,fair,fair,good,good,poor,poor,poor,excellent,good,good,no,over growth
+16,51,1,good,poor,good,fair,poor,excellent,good,good,poor,poor,fair,poor,poor,excellent,fair,no,under growth
+9,66,0,fair,fair,poor,fair,poor,fair,excellent,fair,excellent,excellent,poor,good,excellent,excellent,poor,yes,over growth
+11,108,1,poor,excellent,poor,poor,excellent,poor,good,fair,good,good,fair,excellent,poor,fair,excellent,yes,normal
+12,106,1,poor,excellent,poor,good,good,poor,excellent,fair,fair,poor,poor,excellent,poor,excellent,poor,no,normal
+13,89,3,good,excellent,fair,excellent,fair,good,excellent,good,poor,fair,poor,poor,good,fair,good,yes,over growth
+11,116,0,poor,excellent,excellent,good,fair,excellent,poor,good,good,poor,good,fair,excellent,fair,fair,yes,normal
+13,100,5,fair,fair,fair,excellent,poor,good,poor,poor,excellent,poor,excellent,good,excellent,good,excellent,no,under growth
+17,71,2,excellent,fair,poor,good,good,good,poor,good,good,excellent,poor,fair,poor,good,poor,no,normal
+19,58,5,poor,poor,good,fair,fair,good,fair,good,poor,poor,excellent,excellent,fair,fair,poor,no,normal
+12,99,5,fair,excellent,fair,excellent,fair,fair,excellent,excellent,good,fair,good,excellent,fair,poor,poor,yes,over growth
+6,87,3,excellent,excellent,fair,excellent,fair,fair,fair,excellent,good,good,excellent,excellent,fair,poor,poor,yes,under growth
+6,114,3,excellent,excellent,fair,fair,excellent,poor,excellent,excellent,fair,poor,excellent,excellent,excellent,excellent,good,no,over growth
+18,99,5,excellent,good,excellent,good,good,fair,excellent,poor,excellent,excellent,fair,fair,good,good,excellent,yes,normal
+6,81,0,fair,fair,fair,excellent,poor,fair,fair,poor,good,fair,excellent,fair,good,excellent,fair,no,under growth
+11,64,1,good,poor,good,poor,fair,fair,fair,good,fair,excellent,fair,poor,excellent,fair,good,no,under growth
+18,65,5,poor,fair,fair,poor,good,good,good,poor,poor,good,excellent,poor,poor,poor,good,no,under growth
+13,94,0,good,good,excellent,good,fair,excellent,fair,poor,good,good,excellent,fair,good,excellent,good,no,over growth
+6,54,5,excellent,good,excellent,fair,good,fair,good,good,fair,excellent,fair,good,excellent,fair,fair,yes,under growth
+12,51,3,poor,poor,fair,fair,fair,excellent,fair,excellent,excellent,excellent,good,excellent,poor,excellent,poor,yes,over growth
+15,98,0,fair,good,fair,poor,fair,fair,good,poor,poor,excellent,excellent,poor,poor,fair,poor,no,over growth
+12,73,4,good,good,good,fair,good,excellent,fair,good,good,good,good,poor,fair,excellent,good,no,under growth
+15,65,3,excellent,good,excellent,excellent,excellent,excellent,poor,good,good,fair,fair,good,fair,good,good,no,over growth
+4,93,1,excellent,good,good,fair,good,excellent,fair,excellent,good,excellent,good,excellent,fair,poor,fair,no,over growth
+6,107,4,poor,excellent,poor,poor,excellent,excellent,good,excellent,good,poor,good,good,poor,poor,fair,yes,under growth
+20,56,1,poor,poor,poor,poor,poor,excellent,excellent,fair,good,excellent,poor,good,poor,poor,poor,yes,under growth
+12,96,4,excellent,excellent,fair,good,poor,excellent,excellent,good,poor,good,good,fair,fair,excellent,poor,no,under growth
+15,99,4,fair,good,poor,excellent,excellent,good,excellent,good,good,fair,poor,excellent,poor,poor,excellent,no,under growth
+7,64,5,excellent,fair,poor,excellent,fair,good,good,good,poor,poor,fair,poor,good,poor,fair,no,under growth
+18,68,4,poor,poor,fair,excellent,fair,poor,good,excellent,good,fair,excellent,excellent,excellent,fair,good,yes,under growth
+13,51,3,good,excellent,good,poor,excellent,fair,excellent,fair,excellent,excellent,good,good,excellent,fair,excellent,no,over growth
+5,89,4,poor,fair,good,poor,excellent,excellent,poor,poor,poor,poor,good,excellent,poor,poor,fair,yes,over growth
+10,95,4,good,excellent,fair,fair,poor,excellent,excellent,fair,good,poor,fair,fair,good,good,good,yes,normal
+16,95,5,poor,good,good,poor,fair,fair,good,fair,fair,poor,fair,poor,excellent,good,fair,no,under growth
+3,114,0,good,excellent,good,good,poor,good,excellent,good,good,good,fair,excellent,poor,good,good,no,normal
+19,100,5,poor,excellent,fair,good,poor,good,fair,good,poor,good,poor,excellent,good,fair,fair,no,under growth
+19,109,4,excellent,fair,good,fair,fair,poor,fair,excellent,good,excellent,poor,excellent,excellent,poor,poor,no,normal
+11,101,5,good,good,good,excellent,good,fair,good,good,excellent,fair,fair,good,excellent,poor,excellent,no,normal
+4,76,1,good,poor,good,excellent,fair,excellent,good,good,good,poor,fair,excellent,poor,excellent,good,yes,normal
+13,55,1,poor,excellent,excellent,fair,excellent,fair,excellent,good,fair,fair,fair,good,excellent,fair,good,no,normal
+13,116,2,excellent,excellent,fair,excellent,fair,good,excellent,poor,poor,fair,excellent,fair,good,fair,poor,yes,under growth
+16,101,4,poor,good,good,good,fair,poor,poor,poor,excellent,fair,poor,poor,poor,fair,excellent,yes,under growth
+17,58,4,excellent,excellent,poor,good,poor,fair,excellent,fair,poor,good,fair,fair,excellent,excellent,excellent,yes,normal
+18,87,3,fair,good,poor,excellent,excellent,fair,excellent,excellent,poor,fair,excellent,poor,good,excellent,fair,yes,normal
+8,91,5,excellent,fair,excellent,poor,excellent,excellent,poor,poor,fair,good,good,poor,poor,excellent,good,no,normal
+6,96,3,good,fair,fair,poor,fair,fair,poor,good,good,fair,excellent,excellent,excellent,fair,good,no,under growth
+13,94,5,poor,good,poor,fair,good,excellent,excellent,excellent,good,fair,excellent,good,poor,poor,good,no,normal
+16,87,2,fair,good,poor,poor,poor,excellent,fair,good,poor,good,excellent,poor,poor,poor,excellent,no,over growth
+14,76,1,good,fair,fair,poor,good,poor,good,excellent,poor,poor,fair,good,excellent,excellent,good,no,over growth
+4,64,0,good,poor,fair,good,good,good,poor,good,poor,excellent,fair,excellent,fair,good,excellent,no,under growth
+13,64,3,poor,excellent,good,fair,excellent,good,poor,fair,fair,poor,excellent,poor,excellent,poor,poor,no,over growth
+7,104,1,excellent,fair,poor,poor,fair,fair,fair,good,fair,poor,fair,fair,poor,excellent,good,no,over growth
+9,65,0,good,good,poor,good,poor,excellent,poor,good,poor,fair,fair,poor,good,poor,fair,no,under growth
+15,62,3,good,poor,fair,fair,fair,excellent,good,excellent,fair,poor,good,fair,good,fair,fair,no,under growth
+3,84,0,good,poor,fair,fair,poor,poor,fair,poor,good,excellent,good,fair,excellent,poor,fair,yes,over growth
+6,51,1,excellent,poor,good,good,good,poor,fair,poor,good,poor,excellent,poor,good,excellent,poor,yes,over growth
+11,100,4,excellent,good,poor,excellent,fair,fair,excellent,fair,poor,excellent,poor,poor,poor,excellent,poor,no,over growth
+15,106,4,fair,fair,fair,poor,excellent,fair,excellent,fair,good,excellent,poor,poor,fair,poor,poor,no,over growth
+3,79,5,excellent,fair,fair,fair,excellent,poor,excellent,excellent,excellent,poor,poor,fair,good,fair,good,yes,under growth
+16,115,1,poor,poor,good,excellent,poor,excellent,good,poor,good,excellent,good,poor,good,fair,poor,yes,under growth
+19,119,4,fair,fair,fair,good,poor,poor,fair,excellent,excellent,fair,good,good,fair,poor,fair,yes,normal
+4,119,3,fair,excellent,poor,poor,fair,fair,fair,excellent,poor,fair,excellent,excellent,fair,poor,fair,yes,normal
+3,56,4,good,fair,poor,good,fair,poor,poor,poor,fair,poor,good,excellent,good,fair,good,no,under growth
+11,107,0,good,good,poor,poor,poor,excellent,fair,good,good,fair,excellent,good,good,poor,excellent,yes,normal
+19,111,1,excellent,excellent,poor,poor,poor,excellent,excellent,good,fair,fair,excellent,excellent,good,fair,excellent,yes,under growth
+10,55,5,good,excellent,fair,fair,poor,good,excellent,poor,good,excellent,good,fair,poor,good,fair,no,over growth
+13,106,2,excellent,poor,good,poor,poor,poor,poor,good,fair,excellent,excellent,good,fair,fair,good,no,over growth
+13,54,1,fair,fair,poor,excellent,fair,excellent,good,fair,good,fair,good,fair,good,good,fair,no,over growth
+18,93,4,good,poor,fair,fair,good,excellent,good,fair,fair,fair,fair,excellent,good,fair,good,no,over growth
+9,63,3,excellent,good,poor,poor,good,fair,excellent,fair,fair,poor,excellent,poor,excellent,poor,fair,yes,under growth
+4,99,0,good,fair,fair,fair,poor,excellent,poor,fair,excellent,good,fair,excellent,fair,good,fair,yes,under growth
+14,58,4,good,good,fair,excellent,excellent,poor,poor,poor,good,poor,good,excellent,good,fair,excellent,no,over growth
+8,100,5,fair,poor,fair,excellent,excellent,good,good,fair,fair,poor,fair,fair,poor,excellent,fair,no,over growth
+18,115,4,good,excellent,excellent,good,good,excellent,excellent,poor,good,excellent,excellent,poor,excellent,fair,fair,yes,normal
+18,106,5,good,excellent,good,fair,fair,excellent,excellent,fair,excellent,excellent,excellent,poor,good,excellent,excellent,yes,normal
+19,69,4,poor,fair,poor,excellent,good,good,good,excellent,good,poor,poor,good,poor,good,poor,yes,under growth
+3,91,4,excellent,poor,poor,excellent,excellent,good,poor,poor,good,fair,excellent,poor,good,poor,fair,no,under growth
+10,103,2,poor,fair,good,fair,good,fair,fair,good,good,good,good,fair,excellent,good,excellent,no,under growth
+7,115,1,excellent,excellent,poor,good,good,poor,poor,good,poor,excellent,fair,fair,poor,fair,excellent,yes,normal
+5,98,3,good,fair,poor,poor,excellent,poor,good,good,good,excellent,fair,poor,good,fair,fair,yes,over growth
+17,92,0,fair,good,good,good,fair,good,excellent,poor,good,good,fair,excellent,poor,excellent,excellent,no,over growth
+4,80,0,good,excellent,good,excellent,excellent,excellent,good,poor,poor,poor,fair,fair,fair,poor,excellent,no,under growth
+11,67,0,excellent,poor,excellent,good,poor,good,good,good,excellent,good,poor,fair,fair,fair,excellent,yes,over growth
+19,115,2,good,good,poor,poor,good,excellent,excellent,excellent,fair,poor,excellent,poor,good,good,good,no,over growth
+14,69,0,fair,excellent,fair,good,fair,good,excellent,fair,good,good,excellent,poor,good,fair,fair,yes,under growth
+3,111,0,fair,excellent,excellent,excellent,fair,fair,excellent,excellent,excellent,fair,good,poor,excellent,excellent,poor,yes,normal
+15,120,4,excellent,fair,good,excellent,excellent,fair,good,poor,poor,excellent,poor,good,good,excellent,good,yes,under growth
+20,115,3,good,fair,good,poor,excellent,excellent,excellent,good,poor,excellent,good,excellent,excellent,fair,good,yes,normal
+4,88,5,good,fair,good,good,fair,excellent,excellent,fair,poor,fair,excellent,good,fair,poor,poor,no,normal
+7,97,5,excellent,good,good,poor,excellent,poor,excellent,good,fair,fair,poor,excellent,excellent,good,excellent,no,under growth
+20,73,1,excellent,good,excellent,poor,poor,fair,poor,fair,poor,good,good,poor,poor,poor,fair,yes,over growth
+3,71,0,fair,good,poor,good,good,fair,poor,good,good,good,poor,good,good,fair,excellent,no,normal
+10,89,1,fair,fair,good,good,poor,poor,excellent,excellent,good,good,fair,poor,excellent,fair,excellent,no,under growth
+11,55,0,excellent,good,fair,fair,excellent,poor,poor,poor,excellent,fair,good,poor,excellent,good,poor,no,over growth
+14,120,4,excellent,excellent,excellent,poor,excellent,excellent,fair,fair,fair,poor,fair,poor,good,fair,poor,yes,over growth
+9,105,2,poor,excellent,excellent,excellent,excellent,excellent,good,fair,good,excellent,fair,excellent,good,fair,poor,no,over growth
+15,118,1,fair,fair,excellent,good,excellent,poor,poor,good,fair,fair,fair,fair,poor,excellent,excellent,yes,under growth
+4,99,3,good,good,fair,poor,fair,fair,good,fair,fair,good,excellent,fair,good,excellent,fair,yes,over growth
+16,93,5,excellent,good,excellent,fair,excellent,excellent,good,fair,poor,good,good,fair,excellent,poor,poor,yes,under growth
+16,98,1,poor,fair,excellent,good,poor,fair,poor,good,poor,excellent,excellent,fair,good,fair,fair,yes,under growth
+3,50,1,fair,poor,good,fair,good,poor,excellent,excellent,poor,fair,poor,fair,fair,poor,good,yes,over growth
+9,100,4,good,poor,fair,good,poor,fair,poor,good,poor,fair,excellent,excellent,excellent,fair,poor,no,normal
+5,50,1,poor,excellent,fair,fair,good,excellent,good,excellent,poor,good,excellent,good,poor,excellent,fair,no,over growth
+3,112,3,good,excellent,good,good,good,excellent,excellent,good,fair,fair,good,poor,excellent,fair,good,no,over growth
+6,56,4,excellent,poor,good,fair,fair,good,good,good,good,fair,fair,poor,excellent,poor,fair,no,over growth
+9,97,3,good,excellent,fair,good,excellent,fair,poor,poor,excellent,good,poor,fair,fair,fair,poor,yes,over growth
+20,52,0,excellent,fair,poor,fair,excellent,poor,poor,excellent,good,poor,poor,poor,excellent,excellent,fair,no,normal
+8,73,3,good,poor,poor,excellent,fair,fair,fair,fair,poor,fair,good,excellent,fair,excellent,good,yes,under growth
+10,83,2,good,excellent,excellent,excellent,good,excellent,excellent,excellent,good,good,excellent,excellent,poor,excellent,fair,no,normal
+15,75,5,fair,poor,excellent,fair,fair,poor,excellent,good,excellent,poor,good,good,excellent,poor,good,no,over growth
+20,58,4,good,excellent,good,good,good,good,poor,poor,fair,good,poor,poor,fair,excellent,excellent,yes,under growth
+8,67,4,poor,fair,fair,excellent,good,poor,excellent,excellent,fair,good,fair,good,fair,poor,good,no,normal
+9,89,3,poor,poor,good,excellent,poor,poor,poor,good,fair,good,poor,excellent,fair,fair,excellent,no,normal
+9,109,5,poor,good,excellent,fair,fair,poor,good,excellent,excellent,good,poor,poor,poor,poor,fair,yes,over growth
+20,103,5,excellent,poor,good,good,good,good,good,excellent,poor,poor,poor,fair,poor,fair,poor,no,normal
+8,50,2,poor,excellent,fair,poor,fair,good,fair,fair,excellent,good,fair,fair,excellent,poor,good,yes,under growth
+6,103,0,good,poor,good,good,good,fair,fair,excellent,good,good,fair,excellent,poor,fair,good,yes,over growth
+19,114,3,good,fair,fair,poor,poor,excellent,fair,good,good,good,poor,poor,poor,fair,excellent,yes,over growth
+12,55,5,poor,fair,good,poor,good,fair,fair,fair,poor,fair,good,fair,excellent,fair,fair,no,over growth
+7,88,4,poor,poor,good,poor,excellent,poor,fair,good,good,fair,good,good,excellent,excellent,excellent,yes,over growth
+9,112,3,poor,excellent,good,excellent,poor,excellent,good,excellent,fair,excellent,poor,fair,fair,good,poor,no,under growth
+9,102,1,fair,good,excellent,excellent,excellent,poor,good,good,poor,good,poor,excellent,good,poor,poor,no,under growth
+20,58,3,excellent,poor,excellent,good,good,excellent,good,good,poor,fair,fair,poor,excellent,poor,fair,no,under growth
+11,89,2,poor,excellent,fair,excellent,poor,excellent,fair,fair,excellent,excellent,poor,excellent,poor,poor,good,no,over growth
+10,106,1,good,poor,excellent,fair,fair,fair,excellent,excellent,poor,good,poor,excellent,poor,excellent,fair,no,over growth
+8,61,0,excellent,fair,good,poor,good,good,poor,poor,excellent,fair,good,fair,good,poor,poor,yes,normal
+18,93,1,excellent,good,good,poor,poor,poor,poor,good,poor,good,good,fair,poor,excellent,fair,yes,under growth
+16,79,2,poor,good,fair,poor,poor,excellent,good,excellent,excellent,excellent,poor,excellent,poor,fair,fair,yes,over growth
+20,93,2,good,good,fair,poor,excellent,excellent,poor,fair,fair,good,fair,poor,poor,excellent,good,yes,under growth
+19,75,1,poor,good,fair,fair,excellent,good,excellent,excellent,fair,excellent,excellent,fair,good,excellent,fair,yes,over growth
+4,86,4,excellent,poor,fair,good,fair,excellent,excellent,excellent,good,good,excellent,fair,excellent,good,fair,yes,normal
+9,70,5,excellent,excellent,poor,poor,good,excellent,good,poor,excellent,poor,fair,excellent,fair,fair,poor,no,over growth
+19,81,1,good,excellent,good,good,excellent,poor,fair,poor,poor,fair,good,good,good,good,fair,yes,normal
+7,104,0,excellent,good,poor,good,excellent,excellent,good,poor,poor,fair,excellent,poor,fair,excellent,poor,yes,normal
+7,102,0,good,excellent,excellent,poor,good,fair,poor,fair,good,excellent,fair,good,fair,fair,poor,no,under growth
+15,97,2,fair,fair,fair,poor,excellent,excellent,poor,fair,excellent,excellent,good,excellent,fair,poor,good,no,over growth
+10,50,5,poor,poor,fair,poor,excellent,poor,poor,fair,good,poor,excellent,poor,excellent,good,poor,yes,under growth
+20,112,1,poor,excellent,fair,poor,poor,fair,fair,fair,fair,fair,fair,good,excellent,excellent,poor,yes,normal
+8,56,0,poor,excellent,good,excellent,excellent,good,good,excellent,good,fair,good,excellent,excellent,excellent,good,yes,over growth
+12,55,0,fair,fair,fair,good,fair,good,fair,fair,good,fair,poor,poor,good,good,fair,yes,over growth
+5,75,5,poor,fair,fair,poor,excellent,poor,poor,good,fair,fair,good,poor,good,excellent,excellent,no,under growth
+15,74,0,poor,poor,good,excellent,good,poor,excellent,good,fair,excellent,fair,fair,fair,poor,excellent,yes,normal
+15,64,1,good,excellent,excellent,fair,excellent,poor,poor,good,fair,good,excellent,fair,good,fair,excellent,no,normal
+17,114,2,excellent,good,fair,excellent,excellent,fair,excellent,excellent,good,fair,fair,fair,good,poor,poor,no,over growth
+16,62,5,poor,poor,fair,poor,excellent,poor,good,excellent,excellent,good,excellent,good,fair,excellent,fair,yes,over growth
+16,53,4,fair,fair,good,excellent,excellent,poor,poor,excellent,fair,good,poor,excellent,fair,excellent,fair,yes,normal
+20,51,4,poor,good,poor,poor,good,poor,excellent,fair,poor,excellent,excellent,fair,fair,good,good,yes,under growth
+6,113,2,poor,fair,good,fair,excellent,poor,poor,good,fair,excellent,good,good,fair,poor,excellent,yes,normal
+8,111,2,excellent,excellent,poor,excellent,good,poor,poor,poor,fair,fair,excellent,good,excellent,poor,good,yes,over growth
+7,111,1,poor,good,good,poor,fair,fair,good,excellent,good,fair,good,good,fair,good,good,yes,normal
+7,117,5,good,fair,good,excellent,fair,good,poor,fair,poor,fair,good,poor,good,excellent,fair,yes,over growth
+10,113,1,excellent,excellent,poor,excellent,good,poor,fair,fair,poor,excellent,excellent,good,excellent,fair,fair,yes,over growth
+5,63,0,poor,poor,poor,fair,fair,good,excellent,good,good,good,poor,poor,poor,excellent,poor,yes,normal
+14,82,3,poor,poor,excellent,poor,fair,fair,excellent,poor,poor,poor,excellent,poor,good,fair,fair,no,normal
+9,96,4,fair,poor,good,good,poor,excellent,fair,fair,poor,poor,fair,poor,poor,excellent,fair,yes,normal
+20,102,4,poor,poor,good,good,poor,excellent,excellent,fair,excellent,good,fair,fair,poor,fair,excellent,no,under growth
+15,67,0,excellent,excellent,good,good,poor,excellent,poor,fair,poor,poor,fair,poor,good,fair,good,yes,over growth
+18,88,2,poor,excellent,poor,excellent,good,excellent,fair,poor,poor,good,fair,poor,excellent,poor,excellent,no,over growth
+19,65,0,excellent,poor,good,excellent,poor,poor,fair,poor,excellent,poor,poor,poor,excellent,good,excellent,yes,normal
+13,74,3,good,fair,fair,fair,excellent,good,excellent,poor,good,fair,excellent,poor,good,poor,excellent,no,under growth
+12,74,1,fair,excellent,good,good,good,poor,good,excellent,poor,good,fair,good,good,good,poor,no,under growth
+18,75,3,poor,excellent,fair,poor,excellent,good,poor,excellent,excellent,poor,poor,poor,excellent,excellent,good,no,under growth
+3,73,0,good,poor,excellent,fair,excellent,excellent,good,fair,excellent,fair,poor,excellent,good,fair,good,no,over growth
+4,93,3,fair,good,excellent,excellent,fair,excellent,poor,good,fair,good,fair,good,poor,poor,excellent,yes,over growth
+13,94,2,poor,poor,poor,fair,poor,good,poor,poor,good,excellent,excellent,fair,fair,good,good,no,under growth
+4,71,5,good,fair,fair,excellent,excellent,fair,good,good,poor,excellent,fair,poor,good,good,poor,no,normal
+13,90,1,poor,excellent,good,good,poor,excellent,fair,poor,poor,fair,fair,fair,good,excellent,fair,no,over growth
+4,96,3,excellent,poor,excellent,excellent,fair,excellent,good,excellent,excellent,excellent,fair,excellent,good,excellent,excellent,no,under growth
+4,52,2,good,good,fair,fair,poor,poor,good,good,good,poor,poor,excellent,good,good,excellent,yes,under growth
+10,63,4,fair,excellent,poor,fair,poor,poor,excellent,good,excellent,good,poor,fair,excellent,good,excellent,no,normal
+13,71,1,fair,poor,fair,poor,good,poor,good,excellent,poor,fair,poor,poor,poor,fair,excellent,yes,under growth
+9,63,4,poor,excellent,good,fair,good,fair,good,excellent,poor,good,excellent,excellent,fair,fair,excellent,no,under growth
+3,114,0,poor,excellent,fair,good,good,fair,poor,excellent,fair,fair,fair,excellent,excellent,fair,excellent,no,under growth
+9,102,0,fair,poor,excellent,excellent,excellent,fair,excellent,excellent,good,fair,good,good,fair,excellent,excellent,no,normal
+13,51,5,excellent,fair,fair,excellent,excellent,fair,fair,good,good,poor,excellent,excellent,good,excellent,excellent,yes,over growth
+13,78,0,poor,good,poor,excellent,poor,fair,excellent,fair,fair,poor,poor,good,poor,good,good,yes,under growth
+8,66,3,fair,excellent,poor,poor,good,excellent,poor,good,excellent,excellent,excellent,fair,fair,good,poor,yes,normal
+11,62,0,excellent,fair,excellent,good,fair,poor,fair,poor,poor,poor,excellent,poor,poor,good,excellent,no,under growth
+19,51,0,fair,excellent,fair,good,excellent,fair,poor,excellent,poor,good,good,poor,fair,fair,poor,yes,under growth
+18,101,1,fair,poor,excellent,fair,poor,poor,fair,fair,excellent,good,good,excellent,excellent,poor,excellent,yes,normal
+17,89,3,poor,good,poor,good,excellent,fair,good,good,good,poor,poor,excellent,excellent,good,good,no,over growth
+8,67,3,good,good,poor,poor,good,excellent,good,excellent,good,poor,poor,good,fair,good,good,yes,under growth
+19,56,4,poor,fair,good,fair,excellent,excellent,good,good,poor,poor,good,poor,fair,poor,fair,yes,under growth
+4,75,3,fair,poor,fair,good,fair,fair,good,good,poor,poor,excellent,good,excellent,poor,good,no,normal
+19,77,3,fair,fair,poor,fair,good,poor,excellent,good,fair,fair,good,fair,good,fair,good,yes,under growth
+10,102,2,excellent,poor,excellent,fair,poor,good,good,excellent,good,good,poor,excellent,fair,poor,good,yes,over growth
+10,117,2,excellent,fair,good,fair,poor,good,poor,excellent,good,excellent,good,excellent,excellent,fair,poor,yes,over growth
+9,97,5,poor,poor,poor,poor,fair,poor,good,excellent,fair,good,poor,excellent,poor,excellent,fair,no,under growth
+14,114,0,excellent,poor,good,poor,fair,good,good,excellent,good,poor,poor,poor,excellent,excellent,poor,yes,normal
+18,111,5,good,good,good,fair,excellent,poor,poor,good,fair,poor,good,poor,fair,poor,poor,yes,under growth
+19,91,4,excellent,excellent,excellent,excellent,fair,good,poor,poor,fair,good,poor,fair,good,fair,poor,yes,normal
+12,84,0,fair,fair,excellent,fair,excellent,excellent,excellent,excellent,excellent,fair,good,poor,fair,good,good,yes,over growth
+3,52,2,excellent,good,good,poor,fair,good,poor,good,poor,fair,excellent,fair,fair,poor,fair,yes,under growth
+19,97,4,excellent,poor,poor,fair,good,excellent,fair,poor,good,excellent,fair,excellent,poor,good,good,no,over growth
+11,114,4,poor,excellent,poor,good,excellent,good,good,excellent,good,good,good,good,poor,fair,fair,yes,normal
+5,61,5,fair,poor,fair,fair,fair,poor,excellent,fair,fair,excellent,good,good,poor,good,fair,yes,normal
+20,93,4,poor,excellent,poor,good,fair,excellent,fair,fair,good,poor,fair,fair,excellent,poor,fair,yes,over growth
+3,91,0,excellent,good,good,excellent,excellent,excellent,fair,fair,fair,poor,poor,good,poor,fair,poor,no,normal
+5,56,5,fair,excellent,good,poor,good,fair,fair,excellent,good,excellent,fair,fair,excellent,good,excellent,no,normal
+7,67,5,excellent,good,poor,poor,excellent,good,good,excellent,poor,poor,fair,excellent,excellent,good,poor,yes,normal
+12,104,3,fair,excellent,good,poor,excellent,poor,poor,poor,excellent,fair,fair,poor,fair,good,good,no,over growth
+10,63,3,poor,fair,excellent,excellent,excellent,poor,fair,fair,good,fair,poor,poor,good,good,fair,yes,over growth
+8,65,2,excellent,poor,fair,poor,poor,poor,fair,poor,fair,good,good,poor,fair,excellent,excellent,no,normal
+13,53,3,excellent,excellent,good,fair,poor,good,excellent,good,good,fair,poor,fair,poor,poor,fair,no,normal
+12,71,4,excellent,excellent,poor,fair,excellent,poor,good,poor,poor,good,excellent,poor,fair,poor,fair,yes,normal
+13,74,2,good,excellent,good,excellent,excellent,excellent,excellent,good,fair,good,poor,poor,excellent,excellent,excellent,yes,over growth
+15,58,3,fair,excellent,good,fair,poor,good,fair,fair,excellent,fair,excellent,good,good,fair,good,yes,under growth
+14,80,2,fair,excellent,fair,excellent,fair,excellent,good,excellent,fair,poor,excellent,good,poor,fair,poor,no,under growth
+19,89,3,excellent,fair,fair,good,poor,fair,fair,good,excellent,excellent,poor,excellent,fair,poor,poor,yes,over growth
+5,76,5,excellent,poor,excellent,excellent,fair,poor,excellent,good,good,fair,good,poor,excellent,good,poor,yes,under growth
+20,104,4,good,excellent,good,good,excellent,fair,fair,poor,excellent,good,fair,good,excellent,good,good,no,over growth
+13,93,0,excellent,good,fair,good,excellent,poor,fair,poor,good,excellent,good,excellent,good,excellent,excellent,yes,normal
+5,98,4,fair,fair,fair,fair,good,fair,poor,poor,fair,fair,fair,excellent,excellent,excellent,excellent,no,over growth
+16,90,1,fair,poor,good,excellent,fair,fair,poor,good,fair,excellent,excellent,poor,fair,poor,poor,no,under growth
+17,56,2,good,excellent,excellent,excellent,excellent,excellent,poor,excellent,good,good,poor,poor,excellent,excellent,poor,no,under growth
+17,61,5,fair,excellent,fair,poor,poor,poor,good,poor,excellent,poor,excellent,excellent,fair,fair,poor,no,under growth
+8,109,1,good,excellent,poor,good,good,excellent,good,good,good,good,poor,good,good,excellent,fair,yes,under growth
+20,79,4,poor,fair,poor,excellent,good,excellent,fair,good,fair,fair,good,excellent,good,excellent,good,no,normal
+10,80,1,excellent,fair,good,poor,excellent,poor,fair,excellent,fair,excellent,fair,excellent,good,excellent,good,no,under growth
+18,105,1,good,fair,excellent,poor,fair,poor,fair,good,poor,poor,fair,fair,excellent,good,excellent,no,over growth
+10,83,1,fair,fair,fair,poor,excellent,good,poor,excellent,fair,good,good,fair,fair,excellent,excellent,no,normal
+17,60,5,fair,poor,poor,good,excellent,fair,good,poor,fair,poor,excellent,good,poor,good,excellent,yes,over growth
+12,102,2,excellent,poor,poor,fair,fair,excellent,excellent,poor,excellent,fair,excellent,good,poor,excellent,excellent,yes,under growth
+15,74,5,good,poor,good,excellent,poor,good,good,poor,excellent,poor,good,fair,excellent,poor,excellent,no,under growth
+20,118,4,excellent,excellent,excellent,poor,good,poor,fair,fair,excellent,good,excellent,poor,fair,fair,excellent,yes,normal
+19,95,1,excellent,poor,poor,good,excellent,good,good,fair,excellent,good,excellent,good,excellent,good,excellent,yes,over growth
+15,120,5,excellent,excellent,excellent,poor,fair,poor,fair,fair,fair,excellent,fair,fair,fair,good,good,yes,under growth
+4,79,4,excellent,excellent,poor,good,excellent,excellent,fair,good,fair,fair,fair,poor,fair,good,fair,no,over growth
+17,101,4,fair,good,poor,good,poor,fair,poor,excellent,poor,excellent,excellent,fair,fair,fair,excellent,no,normal
+5,71,0,poor,excellent,poor,fair,poor,excellent,excellent,fair,poor,fair,excellent,poor,fair,fair,excellent,yes,over growth
+17,119,5,fair,fair,excellent,good,excellent,fair,excellent,excellent,good,good,good,good,good,fair,excellent,no,normal
+16,82,5,fair,poor,good,good,good,excellent,excellent,excellent,poor,poor,fair,fair,poor,excellent,excellent,yes,under growth
+6,86,4,excellent,excellent,poor,excellent,poor,good,fair,excellent,excellent,poor,excellent,good,fair,good,excellent,no,over growth
+17,94,5,good,excellent,fair,excellent,excellent,fair,good,excellent,excellent,excellent,fair,poor,poor,poor,fair,yes,under growth
+19,101,3,good,good,fair,excellent,fair,fair,excellent,excellent,fair,excellent,fair,fair,fair,excellent,fair,no,under growth
+4,54,5,good,good,fair,good,poor,poor,poor,good,good,excellent,excellent,excellent,poor,fair,poor,yes,normal
+10,83,3,fair,good,poor,excellent,poor,poor,fair,good,good,fair,poor,good,fair,poor,poor,yes,over growth
+12,96,5,good,fair,fair,poor,excellent,excellent,poor,poor,fair,poor,excellent,good,good,poor,good,no,normal
+15,85,1,poor,fair,fair,fair,poor,excellent,good,poor,fair,good,poor,poor,poor,fair,poor,no,normal
+8,89,2,fair,fair,fair,excellent,poor,good,fair,good,fair,excellent,good,excellent,good,poor,excellent,yes,under growth
+12,83,1,fair,excellent,excellent,fair,good,poor,excellent,excellent,excellent,good,good,good,good,excellent,excellent,no,over growth
+20,89,1,excellent,excellent,excellent,excellent,excellent,fair,poor,excellent,good,fair,fair,excellent,good,excellent,good,no,under growth
+17,106,5,excellent,good,excellent,fair,poor,good,fair,excellent,excellent,poor,fair,good,excellent,good,fair,no,normal
+14,116,1,poor,excellent,excellent,good,excellent,poor,poor,excellent,good,fair,poor,excellent,poor,good,excellent,yes,normal
+10,73,2,good,excellent,good,excellent,poor,good,good,poor,excellent,good,excellent,poor,fair,poor,fair,yes,over growth
+13,65,5,poor,good,good,excellent,fair,fair,excellent,good,excellent,excellent,fair,poor,good,good,fair,no,over growth
+12,82,5,good,good,excellent,fair,fair,fair,excellent,good,good,poor,fair,poor,poor,excellent,excellent,yes,over growth
+4,53,2,good,good,fair,poor,good,fair,fair,fair,fair,excellent,poor,good,excellent,good,excellent,no,over growth
+17,114,1,poor,excellent,good,excellent,fair,fair,excellent,fair,fair,good,good,excellent,good,excellent,poor,yes,normal
+12,52,2,excellent,excellent,fair,excellent,poor,fair,fair,good,good,poor,excellent,fair,excellent,fair,good,no,over growth
+3,77,2,excellent,fair,excellent,fair,good,good,good,poor,poor,poor,good,excellent,fair,poor,good,yes,under growth
+5,71,3,good,fair,good,poor,excellent,poor,fair,poor,fair,fair,excellent,excellent,excellent,poor,fair,no,over growth
+20,111,2,good,good,poor,poor,excellent,fair,poor,good,good,excellent,excellent,good,excellent,poor,good,yes,normal
+10,58,2,good,excellent,poor,fair,excellent,fair,excellent,excellent,excellent,excellent,good,good,fair,fair,fair,no,over growth
+20,119,4,good,poor,good,excellent,poor,poor,excellent,excellent,poor,excellent,good,excellent,excellent,good,poor,no,under growth
+15,106,2,fair,fair,fair,poor,excellent,excellent,excellent,good,good,good,good,good,good,excellent,good,no,under growth
+18,92,0,fair,good,fair,fair,poor,good,excellent,poor,good,poor,poor,fair,good,good,good,yes,under growth
+5,90,3,good,poor,fair,poor,fair,poor,excellent,excellent,good,excellent,poor,good,poor,good,fair,no,normal
+13,67,2,excellent,excellent,fair,excellent,fair,excellent,fair,excellent,good,poor,good,good,fair,fair,fair,yes,over growth
+3,52,4,fair,poor,fair,good,good,poor,fair,good,excellent,excellent,good,excellent,fair,good,poor,no,under growth
+8,93,4,poor,good,poor,poor,poor,good,excellent,excellent,poor,excellent,excellent,good,good,excellent,good,yes,over growth
+4,74,3,fair,poor,excellent,good,poor,fair,good,good,excellent,fair,good,excellent,poor,excellent,poor,yes,over growth
+11,111,1,excellent,fair,fair,good,poor,fair,poor,excellent,poor,fair,excellent,good,good,excellent,excellent,yes,over growth
+8,75,4,excellent,good,poor,excellent,good,fair,good,excellent,poor,fair,poor,poor,excellent,good,poor,no,normal
+9,93,5,poor,fair,good,poor,good,fair,excellent,good,good,fair,good,good,poor,fair,fair,yes,under growth
+19,67,4,poor,poor,excellent,poor,fair,good,excellent,excellent,poor,fair,poor,excellent,fair,poor,poor,yes,under growth
+14,90,4,fair,excellent,fair,excellent,poor,good,fair,good,fair,excellent,poor,excellent,poor,poor,fair,yes,over growth
+12,73,3,excellent,good,good,excellent,excellent,poor,good,excellent,good,excellent,poor,poor,good,good,good,no,under growth
+3,102,1,poor,poor,poor,poor,good,excellent,good,excellent,excellent,poor,good,fair,poor,good,good,no,over growth
+3,83,0,good,poor,excellent,poor,excellent,poor,good,fair,fair,excellent,poor,good,poor,good,fair,yes,over growth
+8,71,1,poor,good,good,good,excellent,fair,poor,excellent,fair,poor,excellent,excellent,excellent,fair,poor,yes,under growth
+12,80,5,good,good,excellent,poor,fair,poor,fair,excellent,excellent,excellent,excellent,excellent,poor,fair,fair,no,over growth
+20,75,1,poor,good,fair,fair,good,excellent,poor,poor,excellent,excellent,good,excellent,excellent,poor,excellent,no,over growth
+19,107,5,excellent,good,poor,fair,poor,poor,poor,poor,poor,fair,poor,poor,fair,good,fair,no,normal
+13,113,0,poor,excellent,poor,poor,good,excellent,poor,excellent,poor,excellent,poor,poor,poor,poor,good,no,under growth
+5,67,0,poor,excellent,good,poor,poor,excellent,fair,poor,good,excellent,fair,good,fair,fair,fair,yes,normal
+15,103,3,excellent,good,good,excellent,fair,good,poor,good,excellent,excellent,good,excellent,good,good,poor,yes,over growth
+18,111,2,poor,poor,excellent,fair,excellent,poor,good,good,good,good,good,fair,fair,fair,poor,no,under growth
+4,76,2,excellent,poor,excellent,poor,excellent,good,excellent,excellent,fair,excellent,good,poor,excellent,fair,fair,yes,normal
+18,111,1,excellent,poor,poor,poor,good,excellent,fair,excellent,fair,good,excellent,excellent,poor,excellent,excellent,no,normal
+19,70,2,poor,fair,fair,good,poor,poor,fair,fair,poor,fair,poor,fair,poor,good,poor,yes,normal
+20,80,1,excellent,excellent,excellent,good,excellent,excellent,good,excellent,fair,fair,excellent,fair,excellent,poor,good,yes,under growth
+11,81,1,good,excellent,good,fair,good,fair,good,excellent,poor,excellent,fair,fair,poor,poor,excellent,no,normal
+7,54,3,poor,fair,excellent,excellent,good,good,fair,excellent,fair,excellent,fair,excellent,excellent,poor,poor,yes,over growth
+18,68,3,good,poor,fair,excellent,good,excellent,excellent,fair,good,poor,good,good,poor,poor,good,yes,over growth
+3,84,3,good,good,good,poor,fair,good,poor,fair,poor,good,excellent,good,poor,excellent,poor,no,normal
+18,69,4,excellent,fair,good,poor,excellent,fair,poor,poor,good,poor,fair,poor,poor,excellent,good,no,normal
+17,99,3,poor,good,fair,poor,good,fair,good,fair,fair,excellent,excellent,excellent,good,excellent,poor,yes,normal
+5,91,5,excellent,fair,excellent,fair,good,good,excellent,poor,poor,fair,excellent,excellent,good,fair,excellent,yes,under growth
+13,108,5,excellent,poor,excellent,fair,poor,good,good,excellent,good,excellent,excellent,excellent,excellent,good,fair,yes,over growth
+5,82,5,fair,fair,good,good,fair,excellent,good,fair,fair,good,poor,good,excellent,poor,poor,yes,normal
+6,64,3,excellent,poor,poor,fair,excellent,fair,fair,poor,excellent,fair,excellent,excellent,good,poor,good,yes,normal
+9,72,4,poor,fair,good,poor,good,fair,poor,excellent,fair,fair,good,fair,fair,excellent,excellent,yes,over growth
+18,86,2,excellent,fair,good,poor,fair,excellent,good,good,excellent,excellent,poor,fair,excellent,good,poor,no,normal
+18,92,4,fair,good,good,poor,excellent,poor,fair,fair,excellent,excellent,excellent,poor,good,fair,poor,no,under growth
+9,73,4,good,good,excellent,fair,excellent,fair,good,fair,fair,poor,fair,good,excellent,excellent,poor,no,normal
+7,65,0,fair,good,poor,excellent,excellent,poor,fair,fair,good,poor,good,poor,excellent,excellent,good,no,under growth
+20,64,1,poor,good,poor,good,poor,good,good,poor,excellent,poor,fair,good,fair,excellent,poor,no,normal
+4,100,5,poor,good,good,good,fair,poor,excellent,good,excellent,fair,good,poor,poor,poor,poor,no,over growth
+20,54,4,fair,good,fair,fair,poor,good,poor,good,fair,excellent,good,good,poor,good,good,no,over growth
+9,64,5,poor,fair,poor,poor,good,good,poor,good,poor,poor,excellent,fair,good,excellent,good,no,over growth
+19,70,5,poor,excellent,good,excellent,excellent,good,poor,excellent,poor,excellent,excellent,excellent,fair,poor,poor,no,over growth
+10,118,0,fair,fair,excellent,fair,poor,excellent,excellent,fair,fair,poor,fair,poor,poor,fair,poor,yes,under growth
+17,67,3,fair,poor,poor,good,poor,excellent,poor,good,good,excellent,excellent,good,excellent,poor,fair,no,under growth
+11,76,4,fair,excellent,fair,poor,good,fair,fair,excellent,good,excellent,fair,excellent,fair,poor,fair,yes,normal
+15,68,5,excellent,fair,poor,fair,poor,poor,good,poor,good,poor,good,poor,poor,poor,good,yes,normal
+11,101,3,poor,poor,poor,poor,good,good,excellent,good,excellent,excellent,poor,excellent,good,excellent,poor,yes,under growth
+5,108,4,fair,excellent,fair,good,good,fair,fair,excellent,fair,excellent,excellent,fair,fair,excellent,good,no,normal
+20,58,2,fair,fair,excellent,good,fair,excellent,poor,fair,poor,good,excellent,poor,poor,poor,fair,no,normal
+13,101,1,fair,poor,fair,poor,good,good,excellent,fair,poor,excellent,poor,fair,good,excellent,excellent,yes,under growth
+5,82,1,fair,fair,poor,poor,fair,poor,poor,excellent,poor,poor,excellent,poor,good,excellent,excellent,no,over growth
+12,71,3,excellent,fair,fair,excellent,good,fair,fair,fair,fair,good,poor,good,good,excellent,excellent,no,normal
+9,72,0,good,good,good,poor,fair,excellent,poor,excellent,poor,excellent,excellent,poor,poor,fair,good,yes,under growth
+9,110,1,fair,fair,excellent,poor,excellent,poor,good,excellent,excellent,good,poor,excellent,poor,fair,fair,yes,normal
+10,64,2,good,poor,poor,fair,poor,poor,good,good,poor,excellent,fair,fair,excellent,fair,good,yes,normal
+14,72,2,excellent,excellent,fair,excellent,excellent,good,poor,poor,poor,good,poor,good,good,excellent,excellent,yes,over growth
+6,61,3,fair,poor,good,fair,poor,good,poor,fair,fair,excellent,fair,fair,fair,excellent,poor,yes,normal
+5,94,0,fair,poor,poor,good,excellent,excellent,poor,excellent,poor,good,fair,excellent,good,fair,poor,no,normal
+20,90,3,poor,fair,good,good,poor,good,excellent,good,fair,good,fair,poor,poor,poor,good,no,over growth
+9,92,3,excellent,excellent,excellent,fair,fair,fair,good,fair,good,fair,excellent,excellent,fair,excellent,fair,yes,over growth
+7,83,5,fair,excellent,fair,good,good,fair,poor,fair,poor,good,fair,good,excellent,fair,fair,yes,over growth
+18,84,0,poor,fair,good,fair,good,poor,poor,poor,fair,fair,good,excellent,fair,fair,fair,no,under growth
+9,113,5,fair,fair,fair,fair,good,excellent,good,fair,fair,good,poor,fair,poor,good,excellent,no,under growth
+17,60,4,excellent,poor,excellent,fair,poor,excellent,poor,good,good,good,fair,excellent,excellent,poor,good,no,over growth
+6,110,0,good,poor,good,good,excellent,fair,poor,excellent,poor,fair,good,poor,excellent,poor,excellent,yes,over growth
+11,108,4,fair,poor,poor,excellent,excellent,poor,good,good,excellent,good,excellent,good,poor,excellent,fair,yes,normal
+7,76,5,good,good,good,poor,excellent,poor,poor,fair,excellent,good,excellent,poor,good,good,poor,yes,over growth
+13,60,5,fair,poor,good,good,poor,good,fair,excellent,poor,poor,poor,poor,good,fair,fair,yes,normal
+4,106,1,good,poor,good,excellent,excellent,good,poor,excellent,poor,poor,excellent,poor,poor,fair,poor,no,under growth
+6,65,2,excellent,excellent,good,fair,excellent,poor,excellent,poor,good,excellent,good,good,fair,fair,poor,no,over growth
+6,107,1,excellent,excellent,fair,good,fair,good,good,excellent,fair,good,fair,good,excellent,good,good,yes,normal
+13,90,1,fair,excellent,poor,poor,poor,excellent,good,excellent,poor,good,poor,fair,fair,poor,fair,no,under growth
+10,105,0,fair,excellent,excellent,fair,fair,poor,excellent,good,good,excellent,good,poor,excellent,excellent,excellent,no,normal
+13,105,1,excellent,excellent,good,poor,excellent,good,poor,poor,poor,fair,excellent,excellent,poor,excellent,fair,yes,over growth
+14,95,5,fair,excellent,poor,good,excellent,poor,excellent,excellent,poor,poor,excellent,good,poor,good,excellent,yes,over growth
+6,120,4,fair,fair,poor,fair,excellent,excellent,poor,good,excellent,excellent,fair,excellent,excellent,excellent,fair,yes,over growth
+8,99,4,poor,fair,poor,poor,fair,excellent,poor,excellent,good,good,good,good,poor,fair,good,yes,normal
+15,84,0,poor,good,poor,poor,good,fair,good,good,poor,poor,poor,excellent,fair,good,fair,no,under growth
+4,106,4,excellent,good,excellent,fair,excellent,good,good,poor,excellent,good,fair,excellent,fair,good,good,yes,under growth
+17,118,2,good,good,excellent,poor,poor,fair,excellent,excellent,excellent,good,good,fair,good,excellent,good,no,under growth
+7,66,1,fair,poor,fair,poor,fair,poor,poor,good,fair,good,excellent,poor,poor,fair,poor,yes,under growth
+12,65,5,fair,poor,excellent,fair,excellent,fair,fair,excellent,poor,fair,excellent,good,excellent,poor,excellent,no,normal
+6,73,3,poor,fair,fair,excellent,poor,excellent,good,fair,excellent,fair,fair,excellent,excellent,poor,good,yes,over growth
+12,83,5,poor,good,good,excellent,excellent,good,poor,poor,good,excellent,excellent,poor,excellent,excellent,fair,no,normal
+13,80,1,poor,excellent,good,fair,good,poor,good,fair,excellent,fair,poor,fair,good,excellent,excellent,no,under growth
+13,119,3,poor,excellent,fair,poor,excellent,fair,good,fair,good,poor,poor,good,poor,good,poor,yes,normal
+6,76,3,poor,good,fair,fair,excellent,fair,excellent,good,fair,fair,poor,excellent,fair,good,good,no,under growth
+13,76,0,poor,excellent,good,excellent,good,poor,good,poor,good,fair,excellent,good,good,excellent,excellent,no,under growth
+19,76,2,excellent,fair,excellent,poor,excellent,excellent,fair,good,fair,poor,excellent,poor,excellent,poor,good,no,under growth
+4,120,1,poor,fair,poor,good,fair,fair,poor,fair,excellent,fair,excellent,fair,fair,fair,fair,yes,under growth
+17,86,3,fair,fair,excellent,fair,poor,good,poor,fair,poor,fair,poor,good,fair,good,good,yes,normal
+9,73,0,excellent,poor,good,fair,poor,fair,poor,excellent,fair,fair,excellent,good,good,good,excellent,yes,normal
+6,70,4,poor,fair,fair,excellent,poor,excellent,fair,fair,poor,poor,fair,poor,good,good,excellent,no,over growth
+4,58,5,good,good,poor,fair,poor,fair,good,good,excellent,excellent,poor,good,fair,poor,excellent,yes,normal
+20,94,3,good,poor,poor,good,excellent,good,excellent,good,fair,poor,fair,fair,fair,fair,poor,yes,over growth
+17,71,5,fair,good,good,good,good,good,good,fair,excellent,excellent,poor,poor,fair,good,fair,no,normal
+16,110,4,poor,poor,poor,poor,good,excellent,excellent,poor,good,poor,good,fair,excellent,good,good,no,normal
+11,93,0,fair,excellent,poor,fair,excellent,excellent,excellent,good,poor,poor,good,good,good,excellent,excellent,yes,under growth
+7,94,5,good,fair,poor,poor,good,fair,fair,good,fair,excellent,excellent,good,good,excellent,poor,no,over growth
+10,109,2,good,excellent,fair,good,fair,excellent,good,fair,poor,poor,good,excellent,excellent,good,good,no,over growth
+11,66,0,excellent,fair,good,good,excellent,fair,good,good,fair,poor,fair,fair,poor,fair,fair,no,under growth
+12,119,5,poor,poor,excellent,excellent,fair,excellent,poor,excellent,excellent,excellent,excellent,fair,fair,excellent,good,no,under growth
+8,50,2,fair,poor,fair,good,good,excellent,excellent,good,excellent,fair,poor,good,fair,good,excellent,yes,normal
+20,61,5,good,poor,fair,excellent,excellent,good,good,excellent,poor,fair,excellent,excellent,poor,poor,poor,yes,over growth
+15,112,3,excellent,poor,excellent,good,good,good,excellent,good,excellent,fair,poor,poor,good,poor,fair,no,over growth
+7,62,0,poor,good,good,fair,excellent,good,good,good,fair,good,good,excellent,fair,poor,excellent,no,normal
+6,113,0,good,excellent,good,poor,poor,good,excellent,good,fair,poor,poor,good,excellent,excellent,fair,no,over growth
+5,111,4,excellent,good,fair,poor,poor,good,fair,fair,excellent,good,good,good,fair,fair,poor,yes,normal
+6,66,1,excellent,excellent,excellent,poor,good,fair,good,fair,fair,good,excellent,excellent,poor,fair,fair,yes,under growth
+15,59,0,fair,poor,excellent,fair,poor,good,fair,poor,poor,poor,excellent,good,fair,fair,fair,no,normal
+18,92,2,poor,excellent,fair,fair,fair,good,good,poor,good,fair,poor,poor,poor,fair,good,no,under growth
+3,55,4,poor,poor,poor,good,good,fair,excellent,good,good,excellent,good,good,excellent,good,good,no,over growth
+11,113,0,fair,fair,good,good,good,excellent,fair,fair,fair,poor,excellent,poor,excellent,good,poor,yes,normal
+12,78,1,excellent,good,excellent,excellent,excellent,excellent,good,good,poor,excellent,fair,excellent,fair,excellent,fair,no,normal
+6,80,0,excellent,good,good,excellent,good,good,good,excellent,fair,fair,good,poor,excellent,good,fair,yes,under growth
+9,98,2,fair,excellent,poor,poor,fair,excellent,poor,poor,excellent,excellent,excellent,excellent,excellent,fair,good,yes,under growth
+13,107,3,fair,excellent,fair,good,excellent,excellent,fair,poor,poor,fair,excellent,excellent,excellent,excellent,poor,no,normal
+3,52,4,poor,fair,fair,good,excellent,fair,excellent,poor,good,excellent,excellent,good,poor,good,poor,no,normal
+3,105,3,fair,poor,poor,poor,good,poor,good,fair,good,poor,excellent,good,fair,excellent,poor,no,over growth
+19,102,3,poor,poor,good,good,fair,excellent,poor,excellent,good,fair,poor,fair,poor,poor,poor,yes,under growth
+19,61,0,fair,fair,fair,fair,excellent,good,poor,excellent,excellent,fair,fair,poor,excellent,excellent,poor,yes,under growth
+7,109,2,poor,fair,excellent,excellent,poor,excellent,excellent,poor,poor,excellent,good,excellent,poor,excellent,fair,yes,over growth
+13,104,2,good,fair,fair,fair,excellent,poor,good,fair,excellent,good,good,good,good,poor,poor,yes,over growth
+12,60,0,excellent,excellent,poor,good,good,poor,excellent,poor,fair,poor,fair,excellent,fair,fair,good,yes,over growth
+13,66,0,fair,good,poor,excellent,good,fair,good,fair,poor,good,poor,poor,fair,good,fair,yes,over growth
+18,51,0,good,poor,poor,fair,poor,good,fair,excellent,excellent,poor,excellent,fair,excellent,fair,fair,yes,over growth
+18,116,3,fair,fair,poor,good,fair,good,good,poor,good,fair,good,poor,fair,fair,fair,no,over growth
+14,76,3,good,good,good,good,good,poor,fair,poor,poor,excellent,excellent,fair,good,excellent,poor,yes,under growth
+5,104,1,excellent,excellent,excellent,excellent,fair,excellent,excellent,fair,fair,good,poor,good,poor,fair,poor,no,under growth
+17,60,3,good,fair,excellent,excellent,poor,poor,poor,fair,poor,excellent,excellent,poor,poor,poor,fair,no,over growth
+4,64,0,excellent,fair,poor,fair,excellent,excellent,good,good,poor,excellent,good,fair,good,poor,fair,yes,under growth
+16,81,2,good,good,fair,fair,poor,poor,excellent,excellent,poor,poor,excellent,excellent,poor,poor,good,no,normal
